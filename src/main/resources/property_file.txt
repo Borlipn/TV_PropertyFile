@@ -1,0 +1,30 @@
+test_case_id = TC-003.01;
+url = http://www.learn2test.net
+title_expected = learn2test.net
+
+test_case_id = TC-003.02;
+"http://www.google.com|learn2test.net" 
+
+test_case_id = TC-003.03;
+"http://www.facebook.net|learn2test.net"
+
+test_case_id = TC-003.04; 
+"http://www.alegro.net|www.alegro.net"
+
+test_case_id = TC-003.05; 
+"http://www.msn.com|learn2test.net" 
+
+test_case_id = TC-003.06;
+"http://www.ebay.com|learn2test.net"
+
+test_case_id = TC-003.07; 
+"http://www.ubid.com|Online Auctions: Laptops, Desktops, TVs, Electronics, Home & Garden | uBid.com"
+
+test_case_id = TC-003.08; 
+"http://ruby-doc.org |Ruby-Doc.org: Documenting the Ruby Language"
+
+test_case_id = TC-003.09; 
+"http://ruby-doc.org |learn2test.net"
+
+test_case_id = TC-003.10;  
+"http://http://www.fda.gov|learn2test.net"
