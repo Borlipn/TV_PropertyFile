@@ -1,3 +1,0 @@
-			String text_case_id = "TC-003.01";
-			String url = "http://www.learn2test.net";
-			String title_expected = "learn2test.net";
